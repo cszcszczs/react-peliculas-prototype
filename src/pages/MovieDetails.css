@@ -1,0 +1,36 @@
+.details-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.col {
+  max-width: 400px;
+  margin: 15px;
+  height: auto;
+  width: 80%;
+}
+
+.movie-img {
+  border-radius: 15px;
+}
+
+.movie-details .title {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.movie-details {
+  font-size: 1.3rem;
+}
+
+.description {
+  padding-top: 20px;
+}
+
+strong {
+  color: #9f91fe;
+}
